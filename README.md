@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annaazad
 - 👀 I’m interested in art.
-- 🌱 I’m currently learning https://github.com/Annaazad/instagram.git art.
+- 🌱 I’m currently learning https://github.com/azadehmohamaddii/instagram.git art.
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me with azadehmohamadi59@yahoo.com.
 
